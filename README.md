@@ -4,7 +4,6 @@
   <p align="center" style="font-size:2em">
     My name is Ron Solomonov.
     <br />
-    <a href>🔨 In Building 🔨</a>
   </p>
 </div>
 
@@ -53,12 +52,12 @@ Get hired by game company / realese good game.
 
 <h2 align="center">Currently working :</h3>
 <p align="center"> 
-<a href="" target="_blank" rel="noreferrer">
+<a href="https://www.fiverr.com/users/ron_solmonov/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="fiverr"></a>
 
 <h2 align="center">My itch.io :</h3>
 <p align="center"> 
-<a href="" target="_blank" rel="noreferrer">
+<a href="https://ronelo.itch.io/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
 
 <h2 align="center">Things I using :</h3>
