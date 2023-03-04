@@ -11,16 +11,20 @@
 
 <h2 align="center"> 
 I’m currently working on:
-<p align="center"> 
-Devlog site.
+
+<a href="https://choriodevblog.blogspot.com/" align="center"> 
+  "Chorio"
+</a>
 
 #
 <h2 align="center"> 
 Todo :
 <p align="center"> 
-Build devlog site. 
+Build devblog site. ✔
    <p align="center"> 
-Build a game 0. 
+<a href="https://choriodevblog.blogspot.com/" align="center"> 
+  Build "Chorio"
+</a>
    <p align="center"> 
 Build a game 1. 
    <p align="center"> 
@@ -54,6 +58,8 @@ Get hired by game company / realese good game.
 <p align="center"> 
 <a href="https://www.fiverr.com/users/ron_solmonov/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="fiverr"></a>
+<a href="https://www.youtube.com/channel/UC-lkJKxqJ1UnQ5AW7RLgypA" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"></a>
 
 <h2 align="center">My itch.io :</h3>
 <p align="center"> 
