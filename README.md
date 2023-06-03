@@ -13,7 +13,7 @@
 I’m currently working on:
 
 <a href="https://choriodevblog.blogspot.com/" align="center"> 
-  "Chorio"
+  "Outlasted"
 </a>
 
 #
@@ -22,8 +22,8 @@ Todo :
 <p align="center"> 
 Build devblog site. ✔
    <p align="center"> 
-<a href="https://choriodevblog.blogspot.com/" align="center"> 
-  Build "Chorio"
+<align="center"> 
+  Build "Outlasted"
 </a>
    <p align="center"> 
 Build a game 1. 
